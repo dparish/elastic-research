@@ -1,0 +1,14 @@
+{
+  "properties": {
+    "code": {
+      "type": "string",
+      "index": "not_analyzed"
+    },
+    "description": {
+      "type": "string"
+    },
+    "longDescription": {
+      "type": "string"
+    }
+  }
+}

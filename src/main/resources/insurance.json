@@ -1,0 +1,31 @@
+[ {
+  "id" : 1,
+  "name" : "Aetna Life Insurance Company"
+}, {
+  "id" : 2,
+  "name" : "All Savers Insurance Company"
+}, {
+  "id" : 3,
+  "name" : "Ambetter"
+}, {
+  "id" : 4,
+  "name" : "Assurant Health"
+}, {
+  "id" : 5,
+  "name" : "Blue Cross and Blue Shield of Texas"
+}, {
+  "id" : 6,
+  "name" : "Cigna"
+}, {
+  "id" : 7,
+  "name" : "FirstCare"
+}, {
+  "id" : 8,
+  "name" : "Humana"
+}, {
+  "id" : 9,
+  "name" : "Scott & White Health Plan"
+}, {
+  "id" : 10,
+  "name" : "UnitedHealthcare Life Ins. Co."
+} ]

@@ -1,0 +1,17 @@
+[
+  {
+    "id" : 0,
+    "name" : "Anderson Mill",
+    "location" : "!1m14!1m8!1m3!1d3439.6352607974786!2d-97.805738!3d30.446439999999996!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x865b32c28b61139d%3A0x5fa4e0752fa7d046!2sAustin+Regional+Clinic%3AAnderson+Mill!5e0!3m2!1sen!2sus!4v1426787012966"
+  },
+  {
+    "id" : 1,
+    "name" : "Round Rock",
+    "location" : "!1m14!1m8!1m3!1d13753.125284824899!2d-97.689576!3d30.484788!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x48be0d3be21eaf06!2sAustin+Regional+Clinic%3ARound+Rock!5e0!3m2!1sen!2sus!4v1426787098812"
+  },
+  {
+    "id" : 3,
+    "name" : "Far West",
+    "location" : "!1m14!1m8!1m3!1d13771.95100647093!2d-97.750378!3d30.351298!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x33ae127635465c40!2sAustin+Regional+Clinic%3AFar+West!5e0!3m2!1sen!2sus!4v1426787150943"
+  }
+]

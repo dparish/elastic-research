@@ -1,0 +1,1747 @@
+[
+  {
+    "code" : "J00",
+    "description" : "Acute nasopharyngitis [common cold]",
+    "longDescription" : "Acute nasopharyngitis [common cold]"
+  }, {
+  "code" : "J01",
+  "description" : "Acute sinusitis",
+  "longDescription" : "Acute sinusitis"
+}, {
+  "code" : "J010",
+  "description" : "Acute maxillary sinusitis",
+  "longDescription" : "Acute maxillary sinusitis"
+}, {
+  "code" : "J0100",
+  "description" : "Acute maxillary sinusitis, unspecified",
+  "longDescription" : "Acute maxillary sinusitis, unspecified"
+}, {
+  "code" : "J0101",
+  "description" : "Acute recurrent maxillary sinusitis",
+  "longDescription" : "Acute recurrent maxillary sinusitis"
+}, {
+  "code" : "J011",
+  "description" : "Acute frontal sinusitis",
+  "longDescription" : "Acute frontal sinusitis"
+}, {
+  "code" : "J0110",
+  "description" : "Acute frontal sinusitis, unspecified",
+  "longDescription" : "Acute frontal sinusitis, unspecified"
+}, {
+  "code" : "J0111",
+  "description" : "Acute recurrent frontal sinusitis",
+  "longDescription" : "Acute recurrent frontal sinusitis"
+}, {
+  "code" : "J012",
+  "description" : "Acute ethmoidal sinusitis",
+  "longDescription" : "Acute ethmoidal sinusitis"
+}, {
+  "code" : "J0120",
+  "description" : "Acute ethmoidal sinusitis, unspecified",
+  "longDescription" : "Acute ethmoidal sinusitis, unspecified"
+}, {
+  "code" : "J0121",
+  "description" : "Acute recurrent ethmoidal sinusitis",
+  "longDescription" : "Acute recurrent ethmoidal sinusitis"
+}, {
+  "code" : "J013",
+  "description" : "Acute sphenoidal sinusitis",
+  "longDescription" : "Acute sphenoidal sinusitis"
+}, {
+  "code" : "J0130",
+  "description" : "Acute sphenoidal sinusitis, unspecified",
+  "longDescription" : "Acute sphenoidal sinusitis, unspecified"
+}, {
+  "code" : "J0131",
+  "description" : "Acute recurrent sphenoidal sinusitis",
+  "longDescription" : "Acute recurrent sphenoidal sinusitis"
+}, {
+  "code" : "J014",
+  "description" : "Acute pansinusitis",
+  "longDescription" : "Acute pansinusitis"
+}, {
+  "code" : "J0140",
+  "description" : "Acute pansinusitis, unspecified",
+  "longDescription" : "Acute pansinusitis, unspecified"
+}, {
+  "code" : "J0141",
+  "description" : "Acute recurrent pansinusitis",
+  "longDescription" : "Acute recurrent pansinusitis"
+}, {
+  "code" : "J018",
+  "description" : "Other acute sinusitis",
+  "longDescription" : "Other acute sinusitis"
+}, {
+  "code" : "J0180",
+  "description" : "Other acute sinusitis",
+  "longDescription" : "Other acute sinusitis"
+}, {
+  "code" : "J0181",
+  "description" : "Other acute recurrent sinusitis",
+  "longDescription" : "Other acute recurrent sinusitis"
+}, {
+  "code" : "J019",
+  "description" : "Acute sinusitis, unspecified",
+  "longDescription" : "Acute sinusitis, unspecified"
+}, {
+  "code" : "J0190",
+  "description" : "Acute sinusitis, unspecified",
+  "longDescription" : "Acute sinusitis, unspecified"
+}, {
+  "code" : "J0191",
+  "description" : "Acute recurrent sinusitis, unspecified",
+  "longDescription" : "Acute recurrent sinusitis, unspecified"
+}, {
+  "code" : "J02",
+  "description" : "Acute pharyngitis",
+  "longDescription" : "Acute pharyngitis"
+}, {
+  "code" : "J020",
+  "description" : "Streptococcal pharyngitis",
+  "longDescription" : "Streptococcal pharyngitis"
+}, {
+  "code" : "J028",
+  "description" : "Acute pharyngitis due to other specified organisms",
+  "longDescription" : "Acute pharyngitis due to other specified organisms"
+}, {
+  "code" : "J029",
+  "description" : "Acute pharyngitis, unspecified",
+  "longDescription" : "Acute pharyngitis, unspecified"
+}, {
+  "code" : "J03",
+  "description" : "Acute tonsillitis",
+  "longDescription" : "Acute tonsillitis"
+}, {
+  "code" : "J030",
+  "description" : "Streptococcal tonsillitis",
+  "longDescription" : "Streptococcal tonsillitis"
+}, {
+  "code" : "J0300",
+  "description" : "Acute streptococcal tonsillitis, unspecified",
+  "longDescription" : "Acute streptococcal tonsillitis, unspecified"
+}, {
+  "code" : "J0301",
+  "description" : "Acute recurrent streptococcal tonsillitis",
+  "longDescription" : "Acute recurrent streptococcal tonsillitis"
+}, {
+  "code" : "J038",
+  "description" : "Acute tonsillitis due to other specified organisms",
+  "longDescription" : "Acute tonsillitis due to other specified organisms"
+}, {
+  "code" : "J0380",
+  "description" : "Acute tonsillitis due to other specified organisms",
+  "longDescription" : "Acute tonsillitis due to other specified organisms"
+}, {
+  "code" : "J0381",
+  "description" : "Acute recurrent tonsillitis due to other specified organisms",
+  "longDescription" : "Acute recurrent tonsillitis due to other specified organisms"
+}, {
+  "code" : "J039",
+  "description" : "Acute tonsillitis, unspecified",
+  "longDescription" : "Acute tonsillitis, unspecified"
+}, {
+  "code" : "J0390",
+  "description" : "Acute tonsillitis, unspecified",
+  "longDescription" : "Acute tonsillitis, unspecified"
+}, {
+  "code" : "J0391",
+  "description" : "Acute recurrent tonsillitis, unspecified",
+  "longDescription" : "Acute recurrent tonsillitis, unspecified"
+}, {
+  "code" : "J04",
+  "description" : "Acute laryngitis and tracheitis",
+  "longDescription" : "Acute laryngitis and tracheitis"
+}, {
+  "code" : "J040",
+  "description" : "Acute laryngitis",
+  "longDescription" : "Acute laryngitis"
+}, {
+  "code" : "J041",
+  "description" : "Acute tracheitis",
+  "longDescription" : "Acute tracheitis"
+}, {
+  "code" : "J0410",
+  "description" : "Acute tracheitis without obstruction",
+  "longDescription" : "Acute tracheitis without obstruction"
+}, {
+  "code" : "J0411",
+  "description" : "Acute tracheitis with obstruction",
+  "longDescription" : "Acute tracheitis with obstruction"
+}, {
+  "code" : "J042",
+  "description" : "Acute laryngotracheitis",
+  "longDescription" : "Acute laryngotracheitis"
+}, {
+  "code" : "J043",
+  "description" : "Supraglottitis, unspecified",
+  "longDescription" : "Supraglottitis, unspecified"
+}, {
+  "code" : "J0430",
+  "description" : "Supraglottitis, unspecified, without obstruction",
+  "longDescription" : "Supraglottitis, unspecified, without obstruction"
+}, {
+  "code" : "J0431",
+  "description" : "Supraglottitis, unspecified, with obstruction",
+  "longDescription" : "Supraglottitis, unspecified, with obstruction"
+}, {
+  "code" : "J05",
+  "description" : "Acute obstructive laryngitis [croup] and epiglottitis",
+  "longDescription" : "Acute obstructive laryngitis [croup] and epiglottitis"
+}, {
+  "code" : "J050",
+  "description" : "Acute obstructive laryngitis [croup]",
+  "longDescription" : "Acute obstructive laryngitis [croup]"
+}, {
+  "code" : "J051",
+  "description" : "Acute epiglottitis",
+  "longDescription" : "Acute epiglottitis"
+}, {
+  "code" : "J0510",
+  "description" : "Acute epiglottitis without obstruction",
+  "longDescription" : "Acute epiglottitis without obstruction"
+}, {
+  "code" : "J0511",
+  "description" : "Acute epiglottitis with obstruction",
+  "longDescription" : "Acute epiglottitis with obstruction"
+}, {
+  "code" : "J06",
+  "description" : "Acute upper resp infections of multiple and unsp sites",
+  "longDescription" : "Acute upper respiratory infections of multiple and unspecified sites"
+}, {
+  "code" : "J060",
+  "description" : "Acute laryngopharyngitis",
+  "longDescription" : "Acute laryngopharyngitis"
+}, {
+  "code" : "J069",
+  "description" : "Acute upper respiratory infection, unspecified",
+  "longDescription" : "Acute upper respiratory infection, unspecified"
+}, {
+  "code" : "J09",
+  "description" : "Influenza due to certain identified influenza viruses",
+  "longDescription" : "Influenza due to certain identified influenza viruses"
+}, {
+  "code" : "J09X",
+  "description" : "Influenza due to identified novel influenza A virus",
+  "longDescription" : "Influenza due to identified novel influenza A virus"
+}, {
+  "code" : "J09X1",
+  "description" : "Influenza due to ident novel influenza A virus w pneumonia",
+  "longDescription" : "Influenza due to identified novel influenza A virus with pneumonia"
+}, {
+  "code" : "J09X2",
+  "description" : "Flu due to ident novel influenza A virus w oth resp manifest",
+  "longDescription" : "Influenza due to identified novel influenza A virus with other respiratory manifestations"
+}, {
+  "code" : "J09X3",
+  "description" : "Influenza due to ident novel influenza A virus w GI manifest",
+  "longDescription" : "Influenza due to identified novel influenza A virus with gastrointestinal manifestations"
+}, {
+  "code" : "J09X9",
+  "description" : "Flu due to ident novel influenza A virus w oth manifest",
+  "longDescription" : "Influenza due to identified novel influenza A virus with other manifestations"
+}, {
+  "code" : "J10",
+  "description" : "Influenza due to other identified influenza virus",
+  "longDescription" : "Influenza due to other identified influenza virus"
+}, {
+  "code" : "J100",
+  "description" : "Influenza due to oth identified influenza virus w pneumonia",
+  "longDescription" : "Influenza due to other identified influenza virus with pneumonia"
+}, {
+  "code" : "J1000",
+  "description" : "Flu due to oth ident flu virus w unsp type of pneumonia",
+  "longDescription" : "Influenza due to other identified influenza virus with unspecified type of pneumonia"
+}, {
+  "code" : "J1001",
+  "description" : "Flu due to oth ident flu virus w same oth ident flu virus pn",
+  "longDescription" : "Influenza due to other identified influenza virus with the same other identified influenza virus pneumonia"
+}, {
+  "code" : "J1008",
+  "description" : "Influenza due to oth ident influenza virus w oth pneumonia",
+  "longDescription" : "Influenza due to other identified influenza virus with other specified pneumonia"
+}, {
+  "code" : "J101",
+  "description" : "Flu due to oth ident influenza virus w oth resp manifest",
+  "longDescription" : "Influenza due to other identified influenza virus with other respiratory manifestations"
+}, {
+  "code" : "J102",
+  "description" : "Influenza due to oth ident influenza virus w GI manifest",
+  "longDescription" : "Influenza due to other identified influenza virus with gastrointestinal manifestations"
+}, {
+  "code" : "J108",
+  "description" : "Influenza due to oth ident influenza virus w oth manifest",
+  "longDescription" : "Influenza due to other identified influenza virus with other manifestations"
+}, {
+  "code" : "J1081",
+  "description" : "Influenza due to oth ident influenza virus w encephalopathy",
+  "longDescription" : "Influenza due to other identified influenza virus with encephalopathy"
+}, {
+  "code" : "J1082",
+  "description" : "Influenza due to oth ident influenza virus w myocarditis",
+  "longDescription" : "Influenza due to other identified influenza virus with myocarditis"
+}, {
+  "code" : "J1083",
+  "description" : "Influenza due to oth ident influenza virus w otitis media",
+  "longDescription" : "Influenza due to other identified influenza virus with otitis media"
+}, {
+  "code" : "J1089",
+  "description" : "Influenza due to oth ident influenza virus w oth manifest",
+  "longDescription" : "Influenza due to other identified influenza virus with other manifestations"
+}, {
+  "code" : "J11",
+  "description" : "Influenza due to unidentified influenza virus",
+  "longDescription" : "Influenza due to unidentified influenza virus"
+}, {
+  "code" : "J110",
+  "description" : "Influenza due to unidentified influenza virus with pneumonia",
+  "longDescription" : "Influenza due to unidentified influenza virus with pneumonia"
+}, {
+  "code" : "J1100",
+  "description" : "Flu due to unidentified flu virus w unsp type of pneumonia",
+  "longDescription" : "Influenza due to unidentified influenza virus with unspecified type of pneumonia"
+}, {
+  "code" : "J1108",
+  "description" : "Flu due to unidentified flu virus w specified pneumonia",
+  "longDescription" : "Influenza due to unidentified influenza virus with specified pneumonia"
+}, {
+  "code" : "J111",
+  "description" : "Flu due to unidentified influenza virus w oth resp manifest",
+  "longDescription" : "Influenza due to unidentified influenza virus with other respiratory manifestations"
+}, {
+  "code" : "J112",
+  "description" : "Influenza due to unidentified influenza virus w GI manifest",
+  "longDescription" : "Influenza due to unidentified influenza virus with gastrointestinal manifestations"
+}, {
+  "code" : "J118",
+  "description" : "Influenza due to unidentified influenza virus w oth manifest",
+  "longDescription" : "Influenza due to unidentified influenza virus with other manifestations"
+}, {
+  "code" : "J1181",
+  "description" : "Flu due to unidentified influenza virus w encephalopathy",
+  "longDescription" : "Influenza due to unidentified influenza virus with encephalopathy"
+}, {
+  "code" : "J1182",
+  "description" : "Influenza due to unidentified influenza virus w myocarditis",
+  "longDescription" : "Influenza due to unidentified influenza virus with myocarditis"
+}, {
+  "code" : "J1183",
+  "description" : "Influenza due to unidentified influenza virus w otitis media",
+  "longDescription" : "Influenza due to unidentified influenza virus with otitis media"
+}, {
+  "code" : "J1189",
+  "description" : "Influenza due to unidentified influenza virus w oth manifest",
+  "longDescription" : "Influenza due to unidentified influenza virus with other manifestations"
+}, {
+  "code" : "J12",
+  "description" : "Viral pneumonia, not elsewhere classified",
+  "longDescription" : "Viral pneumonia, not elsewhere classified"
+}, {
+  "code" : "J120",
+  "description" : "Adenoviral pneumonia",
+  "longDescription" : "Adenoviral pneumonia"
+}, {
+  "code" : "J121",
+  "description" : "Respiratory syncytial virus pneumonia",
+  "longDescription" : "Respiratory syncytial virus pneumonia"
+}, {
+  "code" : "J122",
+  "description" : "Parainfluenza virus pneumonia",
+  "longDescription" : "Parainfluenza virus pneumonia"
+}, {
+  "code" : "J123",
+  "description" : "Human metapneumovirus pneumonia",
+  "longDescription" : "Human metapneumovirus pneumonia"
+}, {
+  "code" : "J128",
+  "description" : "Other viral pneumonia",
+  "longDescription" : "Other viral pneumonia"
+}, {
+  "code" : "J1281",
+  "description" : "Pneumonia due to SARS-associated coronavirus",
+  "longDescription" : "Pneumonia due to SARS-associated coronavirus"
+}, {
+  "code" : "J1289",
+  "description" : "Other viral pneumonia",
+  "longDescription" : "Other viral pneumonia"
+}, {
+  "code" : "J129",
+  "description" : "Viral pneumonia, unspecified",
+  "longDescription" : "Viral pneumonia, unspecified"
+}, {
+  "code" : "J13",
+  "description" : "Pneumonia due to Streptococcus pneumoniae",
+  "longDescription" : "Pneumonia due to Streptococcus pneumoniae"
+}, {
+  "code" : "J14",
+  "description" : "Pneumonia due to Hemophilus influenzae",
+  "longDescription" : "Pneumonia due to Hemophilus influenzae"
+}, {
+  "code" : "J15",
+  "description" : "Bacterial pneumonia, not elsewhere classified",
+  "longDescription" : "Bacterial pneumonia, not elsewhere classified"
+}, {
+  "code" : "J150",
+  "description" : "Pneumonia due to Klebsiella pneumoniae",
+  "longDescription" : "Pneumonia due to Klebsiella pneumoniae"
+}, {
+  "code" : "J151",
+  "description" : "Pneumonia due to Pseudomonas",
+  "longDescription" : "Pneumonia due to Pseudomonas"
+}, {
+  "code" : "J152",
+  "description" : "Pneumonia due to staphylococcus",
+  "longDescription" : "Pneumonia due to staphylococcus"
+}, {
+  "code" : "J1520",
+  "description" : "Pneumonia due to staphylococcus, unspecified",
+  "longDescription" : "Pneumonia due to staphylococcus, unspecified"
+}, {
+  "code" : "J1521",
+  "description" : "Pneumonia due to staphylococcus aureus",
+  "longDescription" : "Pneumonia due to staphylococcus aureus"
+}, {
+  "code" : "J15211",
+  "description" : "Pneumonia due to methicillin suscep staph",
+  "longDescription" : "Pneumonia due to Methicillin susceptible Staphylococcus aureus"
+}, {
+  "code" : "J15212",
+  "description" : "Pneumonia due to Methicillin resistant Staphylococcus aureus",
+  "longDescription" : "Pneumonia due to Methicillin resistant Staphylococcus aureus"
+}, {
+  "code" : "J1529",
+  "description" : "Pneumonia due to other staphylococcus",
+  "longDescription" : "Pneumonia due to other staphylococcus"
+}, {
+  "code" : "J153",
+  "description" : "Pneumonia due to streptococcus, group B",
+  "longDescription" : "Pneumonia due to streptococcus, group B"
+}, {
+  "code" : "J154",
+  "description" : "Pneumonia due to other streptococci",
+  "longDescription" : "Pneumonia due to other streptococci"
+}, {
+  "code" : "J155",
+  "description" : "Pneumonia due to Escherichia coli",
+  "longDescription" : "Pneumonia due to Escherichia coli"
+}, {
+  "code" : "J156",
+  "description" : "Pneumonia due to other aerobic Gram-negative bacteria",
+  "longDescription" : "Pneumonia due to other aerobic Gram-negative bacteria"
+}, {
+  "code" : "J157",
+  "description" : "Pneumonia due to Mycoplasma pneumoniae",
+  "longDescription" : "Pneumonia due to Mycoplasma pneumoniae"
+}, {
+  "code" : "J158",
+  "description" : "Pneumonia due to other specified bacteria",
+  "longDescription" : "Pneumonia due to other specified bacteria"
+}, {
+  "code" : "J159",
+  "description" : "Unspecified bacterial pneumonia",
+  "longDescription" : "Unspecified bacterial pneumonia"
+}, {
+  "code" : "J16",
+  "description" : "Pneumonia due to oth infectious organisms, NEC",
+  "longDescription" : "Pneumonia due to other infectious organisms, not elsewhere classified"
+}, {
+  "code" : "J160",
+  "description" : "Chlamydial pneumonia",
+  "longDescription" : "Chlamydial pneumonia"
+}, {
+  "code" : "J168",
+  "description" : "Pneumonia due to other specified infectious organisms",
+  "longDescription" : "Pneumonia due to other specified infectious organisms"
+}, {
+  "code" : "J17",
+  "description" : "Pneumonia in diseases classified elsewhere",
+  "longDescription" : "Pneumonia in diseases classified elsewhere"
+}, {
+  "code" : "J18",
+  "description" : "Pneumonia, unspecified organism",
+  "longDescription" : "Pneumonia, unspecified organism"
+}, {
+  "code" : "J180",
+  "description" : "Bronchopneumonia, unspecified organism",
+  "longDescription" : "Bronchopneumonia, unspecified organism"
+}, {
+  "code" : "J181",
+  "description" : "Lobar pneumonia, unspecified organism",
+  "longDescription" : "Lobar pneumonia, unspecified organism"
+}, {
+  "code" : "J182",
+  "description" : "Hypostatic pneumonia, unspecified organism",
+  "longDescription" : "Hypostatic pneumonia, unspecified organism"
+}, {
+  "code" : "J188",
+  "description" : "Other pneumonia, unspecified organism",
+  "longDescription" : "Other pneumonia, unspecified organism"
+}, {
+  "code" : "J189",
+  "description" : "Pneumonia, unspecified organism",
+  "longDescription" : "Pneumonia, unspecified organism"
+}, {
+  "code" : "J20",
+  "description" : "Acute bronchitis",
+  "longDescription" : "Acute bronchitis"
+}, {
+  "code" : "J200",
+  "description" : "Acute bronchitis due to Mycoplasma pneumoniae",
+  "longDescription" : "Acute bronchitis due to Mycoplasma pneumoniae"
+}, {
+  "code" : "J201",
+  "description" : "Acute bronchitis due to Hemophilus influenzae",
+  "longDescription" : "Acute bronchitis due to Hemophilus influenzae"
+}, {
+  "code" : "J202",
+  "description" : "Acute bronchitis due to streptococcus",
+  "longDescription" : "Acute bronchitis due to streptococcus"
+}, {
+  "code" : "J203",
+  "description" : "Acute bronchitis due to coxsackievirus",
+  "longDescription" : "Acute bronchitis due to coxsackievirus"
+}, {
+  "code" : "J204",
+  "description" : "Acute bronchitis due to parainfluenza virus",
+  "longDescription" : "Acute bronchitis due to parainfluenza virus"
+}, {
+  "code" : "J205",
+  "description" : "Acute bronchitis due to respiratory syncytial virus",
+  "longDescription" : "Acute bronchitis due to respiratory syncytial virus"
+}, {
+  "code" : "J206",
+  "description" : "Acute bronchitis due to rhinovirus",
+  "longDescription" : "Acute bronchitis due to rhinovirus"
+}, {
+  "code" : "J207",
+  "description" : "Acute bronchitis due to echovirus",
+  "longDescription" : "Acute bronchitis due to echovirus"
+}, {
+  "code" : "J208",
+  "description" : "Acute bronchitis due to other specified organisms",
+  "longDescription" : "Acute bronchitis due to other specified organisms"
+}, {
+  "code" : "J209",
+  "description" : "Acute bronchitis, unspecified",
+  "longDescription" : "Acute bronchitis, unspecified"
+}, {
+  "code" : "J21",
+  "description" : "Acute bronchiolitis",
+  "longDescription" : "Acute bronchiolitis"
+}, {
+  "code" : "J210",
+  "description" : "Acute bronchiolitis due to respiratory syncytial virus",
+  "longDescription" : "Acute bronchiolitis due to respiratory syncytial virus"
+}, {
+  "code" : "J211",
+  "description" : "Acute bronchiolitis due to human metapneumovirus",
+  "longDescription" : "Acute bronchiolitis due to human metapneumovirus"
+}, {
+  "code" : "J218",
+  "description" : "Acute bronchiolitis due to other specified organisms",
+  "longDescription" : "Acute bronchiolitis due to other specified organisms"
+}, {
+  "code" : "J219",
+  "description" : "Acute bronchiolitis, unspecified",
+  "longDescription" : "Acute bronchiolitis, unspecified"
+}, {
+  "code" : "J22",
+  "description" : "Unspecified acute lower respiratory infection",
+  "longDescription" : "Unspecified acute lower respiratory infection"
+}, {
+  "code" : "J30",
+  "description" : "Vasomotor and allergic rhinitis",
+  "longDescription" : "Vasomotor and allergic rhinitis"
+}, {
+  "code" : "J300",
+  "description" : "Vasomotor rhinitis",
+  "longDescription" : "Vasomotor rhinitis"
+}, {
+  "code" : "J301",
+  "description" : "Allergic rhinitis due to pollen",
+  "longDescription" : "Allergic rhinitis due to pollen"
+}, {
+  "code" : "J302",
+  "description" : "Other seasonal allergic rhinitis",
+  "longDescription" : "Other seasonal allergic rhinitis"
+}, {
+  "code" : "J305",
+  "description" : "Allergic rhinitis due to food",
+  "longDescription" : "Allergic rhinitis due to food"
+}, {
+  "code" : "J308",
+  "description" : "Other allergic rhinitis",
+  "longDescription" : "Other allergic rhinitis"
+}, {
+  "code" : "J3081",
+  "description" : "Allergic rhinitis due to animal (cat) (dog) hair and dander",
+  "longDescription" : "Allergic rhinitis due to animal (cat) (dog) hair and dander"
+}, {
+  "code" : "J3089",
+  "description" : "Other allergic rhinitis",
+  "longDescription" : "Other allergic rhinitis"
+}, {
+  "code" : "J309",
+  "description" : "Allergic rhinitis, unspecified",
+  "longDescription" : "Allergic rhinitis, unspecified"
+}, {
+  "code" : "J31",
+  "description" : "Chronic rhinitis, nasopharyngitis and pharyngitis",
+  "longDescription" : "Chronic rhinitis, nasopharyngitis and pharyngitis"
+}, {
+  "code" : "J310",
+  "description" : "Chronic rhinitis",
+  "longDescription" : "Chronic rhinitis"
+}, {
+  "code" : "J311",
+  "description" : "Chronic nasopharyngitis",
+  "longDescription" : "Chronic nasopharyngitis"
+}, {
+  "code" : "J312",
+  "description" : "Chronic pharyngitis",
+  "longDescription" : "Chronic pharyngitis"
+}, {
+  "code" : "J32",
+  "description" : "Chronic sinusitis",
+  "longDescription" : "Chronic sinusitis"
+}, {
+  "code" : "J320",
+  "description" : "Chronic maxillary sinusitis",
+  "longDescription" : "Chronic maxillary sinusitis"
+}, {
+  "code" : "J321",
+  "description" : "Chronic frontal sinusitis",
+  "longDescription" : "Chronic frontal sinusitis"
+}, {
+  "code" : "J322",
+  "description" : "Chronic ethmoidal sinusitis",
+  "longDescription" : "Chronic ethmoidal sinusitis"
+}, {
+  "code" : "J323",
+  "description" : "Chronic sphenoidal sinusitis",
+  "longDescription" : "Chronic sphenoidal sinusitis"
+}, {
+  "code" : "J324",
+  "description" : "Chronic pansinusitis",
+  "longDescription" : "Chronic pansinusitis"
+}, {
+  "code" : "J328",
+  "description" : "Other chronic sinusitis",
+  "longDescription" : "Other chronic sinusitis"
+}, {
+  "code" : "J329",
+  "description" : "Chronic sinusitis, unspecified",
+  "longDescription" : "Chronic sinusitis, unspecified"
+}, {
+  "code" : "J33",
+  "description" : "Nasal polyp",
+  "longDescription" : "Nasal polyp"
+}, {
+  "code" : "J330",
+  "description" : "Polyp of nasal cavity",
+  "longDescription" : "Polyp of nasal cavity"
+}, {
+  "code" : "J331",
+  "description" : "Polypoid sinus degeneration",
+  "longDescription" : "Polypoid sinus degeneration"
+}, {
+  "code" : "J338",
+  "description" : "Other polyp of sinus",
+  "longDescription" : "Other polyp of sinus"
+}, {
+  "code" : "J339",
+  "description" : "Nasal polyp, unspecified",
+  "longDescription" : "Nasal polyp, unspecified"
+}, {
+  "code" : "J34",
+  "description" : "Other and unspecified disorders of nose and nasal sinuses",
+  "longDescription" : "Other and unspecified disorders of nose and nasal sinuses"
+}, {
+  "code" : "J340",
+  "description" : "Abscess, furuncle and carbuncle of nose",
+  "longDescription" : "Abscess, furuncle and carbuncle of nose"
+}, {
+  "code" : "J341",
+  "description" : "Cyst and mucocele of nose and nasal sinus",
+  "longDescription" : "Cyst and mucocele of nose and nasal sinus"
+}, {
+  "code" : "J342",
+  "description" : "Deviated nasal septum",
+  "longDescription" : "Deviated nasal septum"
+}, {
+  "code" : "J343",
+  "description" : "Hypertrophy of nasal turbinates",
+  "longDescription" : "Hypertrophy of nasal turbinates"
+}, {
+  "code" : "J348",
+  "description" : "Other specified disorders of nose and nasal sinuses",
+  "longDescription" : "Other specified disorders of nose and nasal sinuses"
+}, {
+  "code" : "J3481",
+  "description" : "Nasal mucositis (ulcerative)",
+  "longDescription" : "Nasal mucositis (ulcerative)"
+}, {
+  "code" : "J3489",
+  "description" : "Other specified disorders of nose and nasal sinuses",
+  "longDescription" : "Other specified disorders of nose and nasal sinuses"
+}, {
+  "code" : "J349",
+  "description" : "Unspecified disorder of nose and nasal sinuses",
+  "longDescription" : "Unspecified disorder of nose and nasal sinuses"
+}, {
+  "code" : "J35",
+  "description" : "Chronic diseases of tonsils and adenoids",
+  "longDescription" : "Chronic diseases of tonsils and adenoids"
+}, {
+  "code" : "J350",
+  "description" : "Chronic tonsillitis and adenoiditis",
+  "longDescription" : "Chronic tonsillitis and adenoiditis"
+}, {
+  "code" : "J3501",
+  "description" : "Chronic tonsillitis",
+  "longDescription" : "Chronic tonsillitis"
+}, {
+  "code" : "J3502",
+  "description" : "Chronic adenoiditis",
+  "longDescription" : "Chronic adenoiditis"
+}, {
+  "code" : "J3503",
+  "description" : "Chronic tonsillitis and adenoiditis",
+  "longDescription" : "Chronic tonsillitis and adenoiditis"
+}, {
+  "code" : "J351",
+  "description" : "Hypertrophy of tonsils",
+  "longDescription" : "Hypertrophy of tonsils"
+}, {
+  "code" : "J352",
+  "description" : "Hypertrophy of adenoids",
+  "longDescription" : "Hypertrophy of adenoids"
+}, {
+  "code" : "J353",
+  "description" : "Hypertrophy of tonsils with hypertrophy of adenoids",
+  "longDescription" : "Hypertrophy of tonsils with hypertrophy of adenoids"
+}, {
+  "code" : "J358",
+  "description" : "Other chronic diseases of tonsils and adenoids",
+  "longDescription" : "Other chronic diseases of tonsils and adenoids"
+}, {
+  "code" : "J359",
+  "description" : "Chronic disease of tonsils and adenoids, unspecified",
+  "longDescription" : "Chronic disease of tonsils and adenoids, unspecified"
+}, {
+  "code" : "J36",
+  "description" : "Peritonsillar abscess",
+  "longDescription" : "Peritonsillar abscess"
+}, {
+  "code" : "J37",
+  "description" : "Chronic laryngitis and laryngotracheitis",
+  "longDescription" : "Chronic laryngitis and laryngotracheitis"
+}, {
+  "code" : "J370",
+  "description" : "Chronic laryngitis",
+  "longDescription" : "Chronic laryngitis"
+}, {
+  "code" : "J371",
+  "description" : "Chronic laryngotracheitis",
+  "longDescription" : "Chronic laryngotracheitis"
+}, {
+  "code" : "J38",
+  "description" : "Diseases of vocal cords and larynx, not elsewhere classified",
+  "longDescription" : "Diseases of vocal cords and larynx, not elsewhere classified"
+}, {
+  "code" : "J380",
+  "description" : "Paralysis of vocal cords and larynx",
+  "longDescription" : "Paralysis of vocal cords and larynx"
+}, {
+  "code" : "J3800",
+  "description" : "Paralysis of vocal cords and larynx, unspecified",
+  "longDescription" : "Paralysis of vocal cords and larynx, unspecified"
+}, {
+  "code" : "J3801",
+  "description" : "Paralysis of vocal cords and larynx, unilateral",
+  "longDescription" : "Paralysis of vocal cords and larynx, unilateral"
+}, {
+  "code" : "J3802",
+  "description" : "Paralysis of vocal cords and larynx, bilateral",
+  "longDescription" : "Paralysis of vocal cords and larynx, bilateral"
+}, {
+  "code" : "J381",
+  "description" : "Polyp of vocal cord and larynx",
+  "longDescription" : "Polyp of vocal cord and larynx"
+}, {
+  "code" : "J382",
+  "description" : "Nodules of vocal cords",
+  "longDescription" : "Nodules of vocal cords"
+}, {
+  "code" : "J383",
+  "description" : "Other diseases of vocal cords",
+  "longDescription" : "Other diseases of vocal cords"
+}, {
+  "code" : "J384",
+  "description" : "Edema of larynx",
+  "longDescription" : "Edema of larynx"
+}, {
+  "code" : "J385",
+  "description" : "Laryngeal spasm",
+  "longDescription" : "Laryngeal spasm"
+}, {
+  "code" : "J386",
+  "description" : "Stenosis of larynx",
+  "longDescription" : "Stenosis of larynx"
+}, {
+  "code" : "J387",
+  "description" : "Other diseases of larynx",
+  "longDescription" : "Other diseases of larynx"
+}, {
+  "code" : "J39",
+  "description" : "Other diseases of upper respiratory tract",
+  "longDescription" : "Other diseases of upper respiratory tract"
+}, {
+  "code" : "J390",
+  "description" : "Retropharyngeal and parapharyngeal abscess",
+  "longDescription" : "Retropharyngeal and parapharyngeal abscess"
+}, {
+  "code" : "J391",
+  "description" : "Other abscess of pharynx",
+  "longDescription" : "Other abscess of pharynx"
+}, {
+  "code" : "J392",
+  "description" : "Other diseases of pharynx",
+  "longDescription" : "Other diseases of pharynx"
+}, {
+  "code" : "J393",
+  "description" : "Upper respiratory tract hypersensitivity reaction, site unsp",
+  "longDescription" : "Upper respiratory tract hypersensitivity reaction, site unspecified"
+}, {
+  "code" : "J398",
+  "description" : "Other specified diseases of upper respiratory tract",
+  "longDescription" : "Other specified diseases of upper respiratory tract"
+}, {
+  "code" : "J399",
+  "description" : "Disease of upper respiratory tract, unspecified",
+  "longDescription" : "Disease of upper respiratory tract, unspecified"
+}, {
+  "code" : "J40",
+  "description" : "Bronchitis, not specified as acute or chronic",
+  "longDescription" : "Bronchitis, not specified as acute or chronic"
+}, {
+  "code" : "J41",
+  "description" : "Simple and mucopurulent chronic bronchitis",
+  "longDescription" : "Simple and mucopurulent chronic bronchitis"
+}, {
+  "code" : "J410",
+  "description" : "Simple chronic bronchitis",
+  "longDescription" : "Simple chronic bronchitis"
+}, {
+  "code" : "J411",
+  "description" : "Mucopurulent chronic bronchitis",
+  "longDescription" : "Mucopurulent chronic bronchitis"
+}, {
+  "code" : "J418",
+  "description" : "Mixed simple and mucopurulent chronic bronchitis",
+  "longDescription" : "Mixed simple and mucopurulent chronic bronchitis"
+}, {
+  "code" : "J42",
+  "description" : "Unspecified chronic bronchitis",
+  "longDescription" : "Unspecified chronic bronchitis"
+}, {
+  "code" : "J43",
+  "description" : "Emphysema",
+  "longDescription" : "Emphysema"
+}, {
+  "code" : "J430",
+  "description" : "Unilateral pulmonary emphysema [MacLeod's syndrome]",
+  "longDescription" : "Unilateral pulmonary emphysema [MacLeod's syndrome]"
+}, {
+  "code" : "J431",
+  "description" : "Panlobular emphysema",
+  "longDescription" : "Panlobular emphysema"
+}, {
+  "code" : "J432",
+  "description" : "Centrilobular emphysema",
+  "longDescription" : "Centrilobular emphysema"
+}, {
+  "code" : "J438",
+  "description" : "Other emphysema",
+  "longDescription" : "Other emphysema"
+}, {
+  "code" : "J439",
+  "description" : "Emphysema, unspecified",
+  "longDescription" : "Emphysema, unspecified"
+}, {
+  "code" : "J44",
+  "description" : "Other chronic obstructive pulmonary disease",
+  "longDescription" : "Other chronic obstructive pulmonary disease"
+}, {
+  "code" : "J440",
+  "description" : "Chronic obstructive pulmon disease w acute lower resp infct",
+  "longDescription" : "Chronic obstructive pulmonary disease with acute lower respiratory infection"
+}, {
+  "code" : "J441",
+  "description" : "Chronic obstructive pulmonary disease w (acute) exacerbation",
+  "longDescription" : "Chronic obstructive pulmonary disease with (acute) exacerbation"
+}, {
+  "code" : "J449",
+  "description" : "Chronic obstructive pulmonary disease, unspecified",
+  "longDescription" : "Chronic obstructive pulmonary disease, unspecified"
+}, {
+  "code" : "J45",
+  "description" : "Asthma",
+  "longDescription" : "Asthma"
+}, {
+  "code" : "J452",
+  "description" : "Mild intermittent asthma",
+  "longDescription" : "Mild intermittent asthma"
+}, {
+  "code" : "J4520",
+  "description" : "Mild intermittent asthma, uncomplicated",
+  "longDescription" : "Mild intermittent asthma, uncomplicated"
+}, {
+  "code" : "J4521",
+  "description" : "Mild intermittent asthma with (acute) exacerbation",
+  "longDescription" : "Mild intermittent asthma with (acute) exacerbation"
+}, {
+  "code" : "J4522",
+  "description" : "Mild intermittent asthma with status asthmaticus",
+  "longDescription" : "Mild intermittent asthma with status asthmaticus"
+}, {
+  "code" : "J453",
+  "description" : "Mild persistent asthma",
+  "longDescription" : "Mild persistent asthma"
+}, {
+  "code" : "J4530",
+  "description" : "Mild persistent asthma, uncomplicated",
+  "longDescription" : "Mild persistent asthma, uncomplicated"
+}, {
+  "code" : "J4531",
+  "description" : "Mild persistent asthma with (acute) exacerbation",
+  "longDescription" : "Mild persistent asthma with (acute) exacerbation"
+}, {
+  "code" : "J4532",
+  "description" : "Mild persistent asthma with status asthmaticus",
+  "longDescription" : "Mild persistent asthma with status asthmaticus"
+}, {
+  "code" : "J454",
+  "description" : "Moderate persistent asthma",
+  "longDescription" : "Moderate persistent asthma"
+}, {
+  "code" : "J4540",
+  "description" : "Moderate persistent asthma, uncomplicated",
+  "longDescription" : "Moderate persistent asthma, uncomplicated"
+}, {
+  "code" : "J4541",
+  "description" : "Moderate persistent asthma with (acute) exacerbation",
+  "longDescription" : "Moderate persistent asthma with (acute) exacerbation"
+}, {
+  "code" : "J4542",
+  "description" : "Moderate persistent asthma with status asthmaticus",
+  "longDescription" : "Moderate persistent asthma with status asthmaticus"
+}, {
+  "code" : "J455",
+  "description" : "Severe persistent asthma",
+  "longDescription" : "Severe persistent asthma"
+}, {
+  "code" : "J4550",
+  "description" : "Severe persistent asthma, uncomplicated",
+  "longDescription" : "Severe persistent asthma, uncomplicated"
+}, {
+  "code" : "J4551",
+  "description" : "Severe persistent asthma with (acute) exacerbation",
+  "longDescription" : "Severe persistent asthma with (acute) exacerbation"
+}, {
+  "code" : "J4552",
+  "description" : "Severe persistent asthma with status asthmaticus",
+  "longDescription" : "Severe persistent asthma with status asthmaticus"
+}, {
+  "code" : "J459",
+  "description" : "Other and unspecified asthma",
+  "longDescription" : "Other and unspecified asthma"
+}, {
+  "code" : "J4590",
+  "description" : "Unspecified asthma",
+  "longDescription" : "Unspecified asthma"
+}, {
+  "code" : "J45901",
+  "description" : "Unspecified asthma with (acute) exacerbation",
+  "longDescription" : "Unspecified asthma with (acute) exacerbation"
+}, {
+  "code" : "J45902",
+  "description" : "Unspecified asthma with status asthmaticus",
+  "longDescription" : "Unspecified asthma with status asthmaticus"
+}, {
+  "code" : "J45909",
+  "description" : "Unspecified asthma, uncomplicated",
+  "longDescription" : "Unspecified asthma, uncomplicated"
+}, {
+  "code" : "J4599",
+  "description" : "Other asthma",
+  "longDescription" : "Other asthma"
+}, {
+  "code" : "J45990",
+  "description" : "Exercise induced bronchospasm",
+  "longDescription" : "Exercise induced bronchospasm"
+}, {
+  "code" : "J45991",
+  "description" : "Cough variant asthma",
+  "longDescription" : "Cough variant asthma"
+}, {
+  "code" : "J45998",
+  "description" : "Other asthma",
+  "longDescription" : "Other asthma"
+}, {
+  "code" : "J47",
+  "description" : "Bronchiectasis",
+  "longDescription" : "Bronchiectasis"
+}, {
+  "code" : "J470",
+  "description" : "Bronchiectasis with acute lower respiratory infection",
+  "longDescription" : "Bronchiectasis with acute lower respiratory infection"
+}, {
+  "code" : "J471",
+  "description" : "Bronchiectasis with (acute) exacerbation",
+  "longDescription" : "Bronchiectasis with (acute) exacerbation"
+}, {
+  "code" : "J479",
+  "description" : "Bronchiectasis, uncomplicated",
+  "longDescription" : "Bronchiectasis, uncomplicated"
+}, {
+  "code" : "J60",
+  "description" : "Coalworker's pneumoconiosis",
+  "longDescription" : "Coalworker's pneumoconiosis"
+}, {
+  "code" : "J61",
+  "description" : "Pneumoconiosis due to asbestos and other mineral fibers",
+  "longDescription" : "Pneumoconiosis due to asbestos and other mineral fibers"
+}, {
+  "code" : "J62",
+  "description" : "Pneumoconiosis due to dust containing silica",
+  "longDescription" : "Pneumoconiosis due to dust containing silica"
+}, {
+  "code" : "J620",
+  "description" : "Pneumoconiosis due to talc dust",
+  "longDescription" : "Pneumoconiosis due to talc dust"
+}, {
+  "code" : "J628",
+  "description" : "Pneumoconiosis due to other dust containing silica",
+  "longDescription" : "Pneumoconiosis due to other dust containing silica"
+}, {
+  "code" : "J63",
+  "description" : "Pneumoconiosis due to other inorganic dusts",
+  "longDescription" : "Pneumoconiosis due to other inorganic dusts"
+}, {
+  "code" : "J630",
+  "description" : "Aluminosis (of lung)",
+  "longDescription" : "Aluminosis (of lung)"
+}, {
+  "code" : "J631",
+  "description" : "Bauxite fibrosis (of lung)",
+  "longDescription" : "Bauxite fibrosis (of lung)"
+}, {
+  "code" : "J632",
+  "description" : "Berylliosis",
+  "longDescription" : "Berylliosis"
+}, {
+  "code" : "J633",
+  "description" : "Graphite fibrosis (of lung)",
+  "longDescription" : "Graphite fibrosis (of lung)"
+}, {
+  "code" : "J634",
+  "description" : "Siderosis",
+  "longDescription" : "Siderosis"
+}, {
+  "code" : "J635",
+  "description" : "Stannosis",
+  "longDescription" : "Stannosis"
+}, {
+  "code" : "J636",
+  "description" : "Pneumoconiosis due to other specified inorganic dusts",
+  "longDescription" : "Pneumoconiosis due to other specified inorganic dusts"
+}, {
+  "code" : "J64",
+  "description" : "Unspecified pneumoconiosis",
+  "longDescription" : "Unspecified pneumoconiosis"
+}, {
+  "code" : "J65",
+  "description" : "Pneumoconiosis associated with tuberculosis",
+  "longDescription" : "Pneumoconiosis associated with tuberculosis"
+}, {
+  "code" : "J66",
+  "description" : "Airway disease due to specific organic dust",
+  "longDescription" : "Airway disease due to specific organic dust"
+}, {
+  "code" : "J660",
+  "description" : "Byssinosis",
+  "longDescription" : "Byssinosis"
+}, {
+  "code" : "J661",
+  "description" : "Flax-dressers' disease",
+  "longDescription" : "Flax-dressers' disease"
+}, {
+  "code" : "J662",
+  "description" : "Cannabinosis",
+  "longDescription" : "Cannabinosis"
+}, {
+  "code" : "J668",
+  "description" : "Airway disease due to other specific organic dusts",
+  "longDescription" : "Airway disease due to other specific organic dusts"
+}, {
+  "code" : "J67",
+  "description" : "Hypersensitivity pneumonitis due to organic dust",
+  "longDescription" : "Hypersensitivity pneumonitis due to organic dust"
+}, {
+  "code" : "J670",
+  "description" : "Farmer's lung",
+  "longDescription" : "Farmer's lung"
+}, {
+  "code" : "J671",
+  "description" : "Bagassosis",
+  "longDescription" : "Bagassosis"
+}, {
+  "code" : "J672",
+  "description" : "Bird fancier's lung",
+  "longDescription" : "Bird fancier's lung"
+}, {
+  "code" : "J673",
+  "description" : "Suberosis",
+  "longDescription" : "Suberosis"
+}, {
+  "code" : "J674",
+  "description" : "Maltworker's lung",
+  "longDescription" : "Maltworker's lung"
+}, {
+  "code" : "J675",
+  "description" : "Mushroom-worker's lung",
+  "longDescription" : "Mushroom-worker's lung"
+}, {
+  "code" : "J676",
+  "description" : "Maple-bark-stripper's lung",
+  "longDescription" : "Maple-bark-stripper's lung"
+}, {
+  "code" : "J677",
+  "description" : "Air conditioner and humidifier lung",
+  "longDescription" : "Air conditioner and humidifier lung"
+}, {
+  "code" : "J678",
+  "description" : "Hypersensitivity pneumonitis due to other organic dusts",
+  "longDescription" : "Hypersensitivity pneumonitis due to other organic dusts"
+}, {
+  "code" : "J679",
+  "description" : "Hypersensitivity pneumonitis due to unspecified organic dust",
+  "longDescription" : "Hypersensitivity pneumonitis due to unspecified organic dust"
+}, {
+  "code" : "J68",
+  "description" : "Resp cond d/t inhalation of chemicals, gas, fumes and vapors",
+  "longDescription" : "Respiratory conditions due to inhalation of chemicals, gases, fumes and vapors"
+}, {
+  "code" : "J680",
+  "description" : "Bronchitis & pneumonitis d/t chemicals, gas, fumes & vapors",
+  "longDescription" : "Bronchitis and pneumonitis due to chemicals, gases, fumes and vapors"
+}, {
+  "code" : "J681",
+  "description" : "Pulmonary edema due to chemicals, gases, fumes and vapors",
+  "longDescription" : "Pulmonary edema due to chemicals, gases, fumes and vapors"
+}, {
+  "code" : "J682",
+  "description" : "Upper resp inflam d/t chemicals, gas, fumes and vapors, NEC",
+  "longDescription" : "Upper respiratory inflammation due to chemicals, gases, fumes and vapors, not elsewhere classified"
+}, {
+  "code" : "J683",
+  "description" : "Oth ac & subac resp cond d/t chemicals, gas, fumes & vapors",
+  "longDescription" : "Other acute and subacute respiratory conditions due to chemicals, gases, fumes and vapors"
+}, {
+  "code" : "J684",
+  "description" : "Chronic resp cond due to chemicals, gases, fumes and vapors",
+  "longDescription" : "Chronic respiratory conditions due to chemicals, gases, fumes and vapors"
+}, {
+  "code" : "J688",
+  "description" : "Oth resp cond due to chemicals, gases, fumes and vapors",
+  "longDescription" : "Other respiratory conditions due to chemicals, gases, fumes and vapors"
+}, {
+  "code" : "J689",
+  "description" : "Unsp resp cond due to chemicals, gases, fumes and vapors",
+  "longDescription" : "Unspecified respiratory condition due to chemicals, gases, fumes and vapors"
+}, {
+  "code" : "J69",
+  "description" : "Pneumonitis due to solids and liquids",
+  "longDescription" : "Pneumonitis due to solids and liquids"
+}, {
+  "code" : "J690",
+  "description" : "Pneumonitis due to inhalation of food and vomit",
+  "longDescription" : "Pneumonitis due to inhalation of food and vomit"
+}, {
+  "code" : "J691",
+  "description" : "Pneumonitis due to inhalation of oils and essences",
+  "longDescription" : "Pneumonitis due to inhalation of oils and essences"
+}, {
+  "code" : "J698",
+  "description" : "Pneumonitis due to inhalation of other solids and liquids",
+  "longDescription" : "Pneumonitis due to inhalation of other solids and liquids"
+}, {
+  "code" : "J70",
+  "description" : "Respiratory conditions due to other external agents",
+  "longDescription" : "Respiratory conditions due to other external agents"
+}, {
+  "code" : "J700",
+  "description" : "Acute pulmonary manifestations due to radiation",
+  "longDescription" : "Acute pulmonary manifestations due to radiation"
+}, {
+  "code" : "J701",
+  "description" : "Chronic and other pulmonary manifestations due to radiation",
+  "longDescription" : "Chronic and other pulmonary manifestations due to radiation"
+}, {
+  "code" : "J702",
+  "description" : "Acute drug-induced interstitial lung disorders",
+  "longDescription" : "Acute drug-induced interstitial lung disorders"
+}, {
+  "code" : "J703",
+  "description" : "Chronic drug-induced interstitial lung disorders",
+  "longDescription" : "Chronic drug-induced interstitial lung disorders"
+}, {
+  "code" : "J704",
+  "description" : "Drug-induced interstitial lung disorders, unspecified",
+  "longDescription" : "Drug-induced interstitial lung disorders, unspecified"
+}, {
+  "code" : "J705",
+  "description" : "Respiratory conditions due to smoke inhalation",
+  "longDescription" : "Respiratory conditions due to smoke inhalation"
+}, {
+  "code" : "J708",
+  "description" : "Respiratory conditions due to oth external agents",
+  "longDescription" : "Respiratory conditions due to other specified external agents"
+}, {
+  "code" : "J709",
+  "description" : "Respiratory conditions due to unspecified external agent",
+  "longDescription" : "Respiratory conditions due to unspecified external agent"
+}, {
+  "code" : "J80",
+  "description" : "Acute respiratory distress syndrome",
+  "longDescription" : "Acute respiratory distress syndrome"
+}, {
+  "code" : "J81",
+  "description" : "Pulmonary edema",
+  "longDescription" : "Pulmonary edema"
+}, {
+  "code" : "J810",
+  "description" : "Acute pulmonary edema",
+  "longDescription" : "Acute pulmonary edema"
+}, {
+  "code" : "J811",
+  "description" : "Chronic pulmonary edema",
+  "longDescription" : "Chronic pulmonary edema"
+}, {
+  "code" : "J82",
+  "description" : "Pulmonary eosinophilia, not elsewhere classified",
+  "longDescription" : "Pulmonary eosinophilia, not elsewhere classified"
+}, {
+  "code" : "J84",
+  "description" : "Other interstitial pulmonary diseases",
+  "longDescription" : "Other interstitial pulmonary diseases"
+}, {
+  "code" : "J840",
+  "description" : "Alveolar and parieto-alveolar conditions",
+  "longDescription" : "Alveolar and parieto-alveolar conditions"
+}, {
+  "code" : "J8401",
+  "description" : "Alveolar proteinosis",
+  "longDescription" : "Alveolar proteinosis"
+}, {
+  "code" : "J8402",
+  "description" : "Pulmonary alveolar microlithiasis",
+  "longDescription" : "Pulmonary alveolar microlithiasis"
+}, {
+  "code" : "J8403",
+  "description" : "Idiopathic pulmonary hemosiderosis",
+  "longDescription" : "Idiopathic pulmonary hemosiderosis"
+}, {
+  "code" : "J8409",
+  "description" : "Other alveolar and parieto-alveolar conditions",
+  "longDescription" : "Other alveolar and parieto-alveolar conditions"
+}, {
+  "code" : "J841",
+  "description" : "Other interstitial pulmonary diseases with fibrosis",
+  "longDescription" : "Other interstitial pulmonary diseases with fibrosis"
+}, {
+  "code" : "J8410",
+  "description" : "Pulmonary fibrosis, unspecified",
+  "longDescription" : "Pulmonary fibrosis, unspecified"
+}, {
+  "code" : "J8411",
+  "description" : "Idiopathic interstitial pneumonia",
+  "longDescription" : "Idiopathic interstitial pneumonia"
+}, {
+  "code" : "J84111",
+  "description" : "Idiopathic interstitial pneumonia, not otherwise specified",
+  "longDescription" : "Idiopathic interstitial pneumonia, not otherwise specified"
+}, {
+  "code" : "J84112",
+  "description" : "Idiopathic pulmonary fibrosis",
+  "longDescription" : "Idiopathic pulmonary fibrosis"
+}, {
+  "code" : "J84113",
+  "description" : "Idiopathic non-specific interstitial pneumonitis",
+  "longDescription" : "Idiopathic non-specific interstitial pneumonitis"
+}, {
+  "code" : "J84114",
+  "description" : "Acute interstitial pneumonitis",
+  "longDescription" : "Acute interstitial pneumonitis"
+}, {
+  "code" : "J84115",
+  "description" : "Respiratory bronchiolitis interstitial lung disease",
+  "longDescription" : "Respiratory bronchiolitis interstitial lung disease"
+}, {
+  "code" : "J84116",
+  "description" : "Cryptogenic organizing pneumonia",
+  "longDescription" : "Cryptogenic organizing pneumonia"
+}, {
+  "code" : "J84117",
+  "description" : "Desquamative interstitial pneumonia",
+  "longDescription" : "Desquamative interstitial pneumonia"
+}, {
+  "code" : "J8417",
+  "description" : "Oth interstit pulmon dis w fibrosis in dis classd elswhr",
+  "longDescription" : "Other interstitial pulmonary diseases with fibrosis in diseases classified elsewhere"
+}, {
+  "code" : "J842",
+  "description" : "Lymphoid interstitial pneumonia",
+  "longDescription" : "Lymphoid interstitial pneumonia"
+}, {
+  "code" : "J848",
+  "description" : "Other specified interstitial pulmonary diseases",
+  "longDescription" : "Other specified interstitial pulmonary diseases"
+}, {
+  "code" : "J8481",
+  "description" : "Lymphangioleiomyomatosis",
+  "longDescription" : "Lymphangioleiomyomatosis"
+}, {
+  "code" : "J8482",
+  "description" : "Adult pulmonary Langerhans cell histiocytosis",
+  "longDescription" : "Adult pulmonary Langerhans cell histiocytosis"
+}, {
+  "code" : "J8483",
+  "description" : "Surfactant mutations of the lung",
+  "longDescription" : "Surfactant mutations of the lung"
+}, {
+  "code" : "J8484",
+  "description" : "Other interstitial  lung diseases of childhood",
+  "longDescription" : "Other interstitial  lung diseases of childhood"
+}, {
+  "code" : "J84841",
+  "description" : "Neuroendocrine cell hyperplasia of infancy",
+  "longDescription" : "Neuroendocrine cell hyperplasia of infancy"
+}, {
+  "code" : "J84842",
+  "description" : "Pulmonary interstitial glycogenosis",
+  "longDescription" : "Pulmonary interstitial glycogenosis"
+}, {
+  "code" : "J84843",
+  "description" : "Alveolar capillary dysplasia with vein misalignment",
+  "longDescription" : "Alveolar capillary dysplasia with vein misalignment"
+}, {
+  "code" : "J84848",
+  "description" : "Other interstitial  lung diseases of childhood",
+  "longDescription" : "Other interstitial  lung diseases of childhood"
+}, {
+  "code" : "J8489",
+  "description" : "Other specified interstitial pulmonary diseases",
+  "longDescription" : "Other specified interstitial pulmonary diseases"
+}, {
+  "code" : "J849",
+  "description" : "Interstitial pulmonary disease, unspecified",
+  "longDescription" : "Interstitial pulmonary disease, unspecified"
+}, {
+  "code" : "J85",
+  "description" : "Abscess of lung and mediastinum",
+  "longDescription" : "Abscess of lung and mediastinum"
+}, {
+  "code" : "J850",
+  "description" : "Gangrene and necrosis of lung",
+  "longDescription" : "Gangrene and necrosis of lung"
+}, {
+  "code" : "J851",
+  "description" : "Abscess of lung with pneumonia",
+  "longDescription" : "Abscess of lung with pneumonia"
+}, {
+  "code" : "J852",
+  "description" : "Abscess of lung without pneumonia",
+  "longDescription" : "Abscess of lung without pneumonia"
+}, {
+  "code" : "J853",
+  "description" : "Abscess of mediastinum",
+  "longDescription" : "Abscess of mediastinum"
+}, {
+  "code" : "J86",
+  "description" : "Pyothorax",
+  "longDescription" : "Pyothorax"
+}, {
+  "code" : "J860",
+  "description" : "Pyothorax with fistula",
+  "longDescription" : "Pyothorax with fistula"
+}, {
+  "code" : "J869",
+  "description" : "Pyothorax without fistula",
+  "longDescription" : "Pyothorax without fistula"
+}, {
+  "code" : "J90",
+  "description" : "Pleural effusion, not elsewhere classified",
+  "longDescription" : "Pleural effusion, not elsewhere classified"
+}, {
+  "code" : "J91",
+  "description" : "Pleural effusion in conditions classified elsewhere",
+  "longDescription" : "Pleural effusion in conditions classified elsewhere"
+}, {
+  "code" : "J910",
+  "description" : "Malignant pleural effusion",
+  "longDescription" : "Malignant pleural effusion"
+}, {
+  "code" : "J918",
+  "description" : "Pleural effusion in other conditions classified elsewhere",
+  "longDescription" : "Pleural effusion in other conditions classified elsewhere"
+}, {
+  "code" : "J92",
+  "description" : "Pleural plaque",
+  "longDescription" : "Pleural plaque"
+}, {
+  "code" : "J920",
+  "description" : "Pleural plaque with presence of asbestos",
+  "longDescription" : "Pleural plaque with presence of asbestos"
+}, {
+  "code" : "J929",
+  "description" : "Pleural plaque without asbestos",
+  "longDescription" : "Pleural plaque without asbestos"
+}, {
+  "code" : "J93",
+  "description" : "Pneumothorax and air leak",
+  "longDescription" : "Pneumothorax and air leak"
+}, {
+  "code" : "J930",
+  "description" : "Spontaneous tension pneumothorax",
+  "longDescription" : "Spontaneous tension pneumothorax"
+}, {
+  "code" : "J931",
+  "description" : "Other spontaneous pneumothorax",
+  "longDescription" : "Other spontaneous pneumothorax"
+}, {
+  "code" : "J9311",
+  "description" : "Primary spontaneous pneumothorax",
+  "longDescription" : "Primary spontaneous pneumothorax"
+}, {
+  "code" : "J9312",
+  "description" : "Secondary spontaneous pneumothorax",
+  "longDescription" : "Secondary spontaneous pneumothorax"
+}, {
+  "code" : "J938",
+  "description" : "Other pneumothorax and air leak",
+  "longDescription" : "Other pneumothorax and air leak"
+}, {
+  "code" : "J9381",
+  "description" : "Chronic pneumothorax",
+  "longDescription" : "Chronic pneumothorax"
+}, {
+  "code" : "J9382",
+  "description" : "Other air leak",
+  "longDescription" : "Other air leak"
+}, {
+  "code" : "J9383",
+  "description" : "Other pneumothorax",
+  "longDescription" : "Other pneumothorax"
+}, {
+  "code" : "J939",
+  "description" : "Pneumothorax, unspecified",
+  "longDescription" : "Pneumothorax, unspecified"
+}, {
+  "code" : "J94",
+  "description" : "Other pleural conditions",
+  "longDescription" : "Other pleural conditions"
+}, {
+  "code" : "J940",
+  "description" : "Chylous effusion",
+  "longDescription" : "Chylous effusion"
+}, {
+  "code" : "J941",
+  "description" : "Fibrothorax",
+  "longDescription" : "Fibrothorax"
+}, {
+  "code" : "J942",
+  "description" : "Hemothorax",
+  "longDescription" : "Hemothorax"
+}, {
+  "code" : "J948",
+  "description" : "Other specified pleural conditions",
+  "longDescription" : "Other specified pleural conditions"
+}, {
+  "code" : "J949",
+  "description" : "Pleural condition, unspecified",
+  "longDescription" : "Pleural condition, unspecified"
+}, {
+  "code" : "J95",
+  "description" : "Intraop and postproc comp and disorders of resp sys, NEC",
+  "longDescription" : "Intraoperative and postprocedural complications and disorders of respiratory system, not elsewhere classified"
+}, {
+  "code" : "J950",
+  "description" : "Tracheostomy complications",
+  "longDescription" : "Tracheostomy complications"
+}, {
+  "code" : "J9500",
+  "description" : "Unspecified tracheostomy complication",
+  "longDescription" : "Unspecified tracheostomy complication"
+}, {
+  "code" : "J9501",
+  "description" : "Hemorrhage from tracheostomy stoma",
+  "longDescription" : "Hemorrhage from tracheostomy stoma"
+}, {
+  "code" : "J9502",
+  "description" : "Infection of tracheostomy stoma",
+  "longDescription" : "Infection of tracheostomy stoma"
+}, {
+  "code" : "J9503",
+  "description" : "Malfunction of tracheostomy stoma",
+  "longDescription" : "Malfunction of tracheostomy stoma"
+}, {
+  "code" : "J9504",
+  "description" : "Tracheo-esophageal fistula following tracheostomy",
+  "longDescription" : "Tracheo-esophageal fistula following tracheostomy"
+}, {
+  "code" : "J9509",
+  "description" : "Other tracheostomy complication",
+  "longDescription" : "Other tracheostomy complication"
+}, {
+  "code" : "J951",
+  "description" : "Acute pulmonary insufficiency following thoracic surgery",
+  "longDescription" : "Acute pulmonary insufficiency following thoracic surgery"
+}, {
+  "code" : "J952",
+  "description" : "Acute pulmonary insufficiency following nonthoracic surgery",
+  "longDescription" : "Acute pulmonary insufficiency following nonthoracic surgery"
+}, {
+  "code" : "J953",
+  "description" : "Chronic pulmonary insufficiency following surgery",
+  "longDescription" : "Chronic pulmonary insufficiency following surgery"
+}, {
+  "code" : "J954",
+  "description" : "Chemical pneumonitis due to anesthesia",
+  "longDescription" : "Chemical pneumonitis due to anesthesia"
+}, {
+  "code" : "J955",
+  "description" : "Postprocedural subglottic stenosis",
+  "longDescription" : "Postprocedural subglottic stenosis"
+}, {
+  "code" : "J956",
+  "description" : "Intraop hemor/hemtom of a resp sys org comp a procedure",
+  "longDescription" : "Intraoperative hemorrhage and hematoma of a respiratory system organ or structure complicating a procedure"
+}, {
+  "code" : "J9561",
+  "description" : "Intraop hemor/hemtom of a resp sys org comp resp sys proc",
+  "longDescription" : "Intraoperative hemorrhage and hematoma of a respiratory system organ or structure complicating a respiratory system procedure"
+}, {
+  "code" : "J9562",
+  "description" : "Intraop hemor/hemtom of a resp sys org comp oth procedure",
+  "longDescription" : "Intraoperative hemorrhage and hematoma of a respiratory system organ or structure complicating other procedure"
+}, {
+  "code" : "J957",
+  "description" : "Accidental pnctr & lac of a respiratory system org dur proc",
+  "longDescription" : "Accidental puncture and laceration of a respiratory system organ or structure during a procedure"
+}, {
+  "code" : "J9571",
+  "description" : "Accidental pnctr & lac of a resp sys org dur resp sys proc",
+  "longDescription" : "Accidental puncture and laceration of a respiratory system organ or structure during a respiratory system procedure"
+}, {
+  "code" : "J9572",
+  "description" : "Acc pnctr & lac of a resp sys org during oth procedure",
+  "longDescription" : "Accidental puncture and laceration of a respiratory system organ or structure during other procedure"
+}, {
+  "code" : "J958",
+  "description" : "Oth intraop and postproc comp and disorders of resp sys, NEC",
+  "longDescription" : "Other intraoperative and postprocedural complications and disorders of respiratory system, not elsewhere classified"
+}, {
+  "code" : "J9581",
+  "description" : "Postprocedural pneumothorax and air leak",
+  "longDescription" : "Postprocedural pneumothorax and air leak"
+}, {
+  "code" : "J95811",
+  "description" : "Postprocedural pneumothorax",
+  "longDescription" : "Postprocedural pneumothorax"
+}, {
+  "code" : "J95812",
+  "description" : "Postprocedural air leak",
+  "longDescription" : "Postprocedural air leak"
+}, {
+  "code" : "J9582",
+  "description" : "Postprocedural respiratory failure",
+  "longDescription" : "Postprocedural respiratory failure"
+}, {
+  "code" : "J95821",
+  "description" : "Acute postprocedural respiratory failure",
+  "longDescription" : "Acute postprocedural respiratory failure"
+}, {
+  "code" : "J95822",
+  "description" : "Acute and chronic postprocedural respiratory failure",
+  "longDescription" : "Acute and chronic postprocedural respiratory failure"
+}, {
+  "code" : "J9583",
+  "description" : "Postproc hemor/hemtom of a resp sys org fol a procedure",
+  "longDescription" : "Postprocedural hemorrhage and hematoma of a respiratory system organ or structure following a procedure"
+}, {
+  "code" : "J95830",
+  "description" : "Postproc hemor/hemtom of a resp sys org fol a resp sys proc",
+  "longDescription" : "Postprocedural hemorrhage and hematoma of a respiratory system organ or structure following a respiratory system procedure"
+}, {
+  "code" : "J95831",
+  "description" : "Postproc hemor/hemtom of a resp sys org fol oth procedure",
+  "longDescription" : "Postprocedural hemorrhage and hematoma of a respiratory system organ or structure following other procedure"
+}, {
+  "code" : "J9584",
+  "description" : "Transfusion-related acute lung injury (TRALI)",
+  "longDescription" : "Transfusion-related acute lung injury (TRALI)"
+}, {
+  "code" : "J9585",
+  "description" : "Complication of respirator [ventilator]",
+  "longDescription" : "Complication of respirator [ventilator]"
+}, {
+  "code" : "J95850",
+  "description" : "Mechanical complication of respirator",
+  "longDescription" : "Mechanical complication of respirator"
+}, {
+  "code" : "J95851",
+  "description" : "Ventilator associated pneumonia",
+  "longDescription" : "Ventilator associated pneumonia"
+}, {
+  "code" : "J95859",
+  "description" : "Other complication of respirator [ventilator]",
+  "longDescription" : "Other complication of respirator [ventilator]"
+}, {
+  "code" : "J9588",
+  "description" : "Oth intraoperative complications of respiratory system, NEC",
+  "longDescription" : "Other intraoperative complications of respiratory system, not elsewhere classified"
+}, {
+  "code" : "J9589",
+  "description" : "Oth postproc complications and disorders of resp sys, NEC",
+  "longDescription" : "Other postprocedural complications and disorders of respiratory system, not elsewhere classified"
+}, {
+  "code" : "J96",
+  "description" : "Respiratory failure, not elsewhere classified",
+  "longDescription" : "Respiratory failure, not elsewhere classified"
+}, {
+  "code" : "J960",
+  "description" : "Acute respiratory failure",
+  "longDescription" : "Acute respiratory failure"
+}, {
+  "code" : "J9600",
+  "description" : "Acute respiratory failure, unsp w hypoxia or hypercapnia",
+  "longDescription" : "Acute respiratory failure, unspecified whether with hypoxia or hypercapnia"
+}, {
+  "code" : "J9601",
+  "description" : "Acute respiratory failure with hypoxia",
+  "longDescription" : "Acute respiratory failure with hypoxia"
+}, {
+  "code" : "J9602",
+  "description" : "Acute respiratory failure with hypercapnia",
+  "longDescription" : "Acute respiratory failure with hypercapnia"
+}, {
+  "code" : "J961",
+  "description" : "Chronic respiratory failure",
+  "longDescription" : "Chronic respiratory failure"
+}, {
+  "code" : "J9610",
+  "description" : "Chronic respiratory failure, unsp w hypoxia or hypercapnia",
+  "longDescription" : "Chronic respiratory failure, unspecified whether with hypoxia or hypercapnia"
+}, {
+  "code" : "J9611",
+  "description" : "Chronic respiratory failure with hypoxia",
+  "longDescription" : "Chronic respiratory failure with hypoxia"
+}, {
+  "code" : "J9612",
+  "description" : "Chronic respiratory failure with hypercapnia",
+  "longDescription" : "Chronic respiratory failure with hypercapnia"
+}, {
+  "code" : "J962",
+  "description" : "Acute and chronic respiratory failure",
+  "longDescription" : "Acute and chronic respiratory failure"
+}, {
+  "code" : "J9620",
+  "description" : "Acute and chr resp failure, unsp w hypoxia or hypercapnia",
+  "longDescription" : "Acute and chronic respiratory failure, unspecified whether with hypoxia or hypercapnia"
+}, {
+  "code" : "J9621",
+  "description" : "Acute and chronic respiratory failure with hypoxia",
+  "longDescription" : "Acute and chronic respiratory failure with hypoxia"
+}, {
+  "code" : "J9622",
+  "description" : "Acute and chronic respiratory failure with hypercapnia",
+  "longDescription" : "Acute and chronic respiratory failure with hypercapnia"
+}, {
+  "code" : "J969",
+  "description" : "Respiratory failure, unspecified",
+  "longDescription" : "Respiratory failure, unspecified"
+}, {
+  "code" : "J9690",
+  "description" : "Respiratory failure, unsp, unsp w hypoxia or hypercapnia",
+  "longDescription" : "Respiratory failure, unspecified, unspecified whether with hypoxia or hypercapnia"
+}, {
+  "code" : "J9691",
+  "description" : "Respiratory failure, unspecified with hypoxia",
+  "longDescription" : "Respiratory failure, unspecified with hypoxia"
+}, {
+  "code" : "J9692",
+  "description" : "Respiratory failure, unspecified with hypercapnia",
+  "longDescription" : "Respiratory failure, unspecified with hypercapnia"
+}, {
+  "code" : "J98",
+  "description" : "Other respiratory disorders",
+  "longDescription" : "Other respiratory disorders"
+}, {
+  "code" : "J980",
+  "description" : "Diseases of bronchus, not elsewhere classified",
+  "longDescription" : "Diseases of bronchus, not elsewhere classified"
+}, {
+  "code" : "J9801",
+  "description" : "Acute bronchospasm",
+  "longDescription" : "Acute bronchospasm"
+}, {
+  "code" : "J9809",
+  "description" : "Other diseases of bronchus, not elsewhere classified",
+  "longDescription" : "Other diseases of bronchus, not elsewhere classified"
+}, {
+  "code" : "J981",
+  "description" : "Pulmonary collapse",
+  "longDescription" : "Pulmonary collapse"
+}, {
+  "code" : "J9811",
+  "description" : "Atelectasis",
+  "longDescription" : "Atelectasis"
+}, {
+  "code" : "J9819",
+  "description" : "Other pulmonary collapse",
+  "longDescription" : "Other pulmonary collapse"
+}, {
+  "code" : "J982",
+  "description" : "Interstitial emphysema",
+  "longDescription" : "Interstitial emphysema"
+}, {
+  "code" : "J983",
+  "description" : "Compensatory emphysema",
+  "longDescription" : "Compensatory emphysema"
+}, {
+  "code" : "J984",
+  "description" : "Other disorders of lung",
+  "longDescription" : "Other disorders of lung"
+}, {
+  "code" : "J985",
+  "description" : "Diseases of mediastinum, not elsewhere classified",
+  "longDescription" : "Diseases of mediastinum, not elsewhere classified"
+}, {
+  "code" : "J986",
+  "description" : "Disorders of diaphragm",
+  "longDescription" : "Disorders of diaphragm"
+}, {
+  "code" : "J988",
+  "description" : "Other specified respiratory disorders",
+  "longDescription" : "Other specified respiratory disorders"
+}, {
+  "code" : "J989",
+  "description" : "Respiratory disorder, unspecified",
+  "longDescription" : "Respiratory disorder, unspecified"
+}, {
+  "code" : "J99",
+  "description" : "Respiratory disorders in diseases classified elsewhere",
+  "longDescription" : "Respiratory disorders in diseases classified elsewhere"
+}
+]
