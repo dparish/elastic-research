@@ -14,6 +14,8 @@ import org.elasticsearch.node.Node;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 
 import java.io.IOException;
 import java.io.InputStream;
@@ -33,6 +35,8 @@ public class ElasticTest {
 
     private ObjectMapper mapper = new ObjectMapper();
     private Node node;
+
+    private static final Logger logger = LoggerFactory.getLogger(ElasticTest.class);
 
     @Before
     public void open() {
@@ -63,7 +67,7 @@ public class ElasticTest {
     }
 
     @Test
-    public void bulkInsert() throws IOException {
+    public void insertMeds() throws IOException {
         Client client = node.client();
 
         // update the mapping for icd first
@@ -107,13 +111,20 @@ public class ElasticTest {
         requestBuilder.addMapping("task", text);
         requestBuilder.execute().actionGet();
         BulkRequestBuilder builder = client.prepareBulk();
-        for (Task task : getTasks()) {
+        logger.info("start get tasks");
+        List<Task> tasks = getTasks();
+        logger.info("end get tasks");
+
+        logger.info("start add tasks");
+        for (Task task : tasks) {
             builder.add(
                     client.prepareIndex("restbpm", "task")
                             .setSource(mapper.writeValueAsBytes(task))
             );
         }
         builder.execute().actionGet();
+        logger.info("end add tasks");
+
     }
 
     private List<ICD> getICD() throws IOException {
